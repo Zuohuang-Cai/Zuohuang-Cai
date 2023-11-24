@@ -1,2 +1,15 @@
-# about-me
-about me
+# Hi there! 👋
+
+I'm Zuohuang Cai, a Fullstack devloop based in dutch. 
+
+## program language
+- php
+- python
+- js
+- html
+- css
+## frame work
+- express
+- bootstrap
+- bulma
+- tailwindcss
