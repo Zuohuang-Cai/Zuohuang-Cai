@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Zuohuang Cai, a Fullstack developer based in dutch. 
+I'm Zuohuang Cai, a Fullstack developer based in the Netherlands. 
 
 ## program language
 - php
