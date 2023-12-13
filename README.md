@@ -9,7 +9,7 @@ I'm Zuohuang Cai, a Fullstack developer based in dutch.
 - html
 - css
 ## frame work
-- express
+- express.js
 - bootstrap
 - bulma
 - tailwindcss
