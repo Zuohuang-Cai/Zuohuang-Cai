@@ -10,20 +10,20 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
 
 <h3>Languages</h3>
-- Javascript
-- Java
-- PHP
-- Css
+-  Javascript
+-  Java
+-  PHP
+-  Css
 <h3>Tools</h3>
-- Postman
-- intelij
-- git
-- tomcat
-- xampp
-- sqlyog
+-  Postman
+-  intelij
+-  git
+-  tomcat
+-  xampp
+-  sqlyog
 <h3>Framework</h3>
-- springboot
-- flask
-- express.js
-- bootstrap
-- mybatis
+-  springboot
+-  flask
+-  express.js
+-  bootstrap
+-  mybatis
