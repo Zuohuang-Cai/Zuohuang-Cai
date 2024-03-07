@@ -9,19 +9,19 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
 
-<h3>Languages</h3>
+# Languages
 -  Javascript
 -  Java
 -  PHP
 -  Css
-<h3>Tools</h3>
+# tools
 -  Postman
 -  intelij
 -  git
 -  tomcat
 -  xampp
 -  sqlyog
-<h3>Framework</h3>
+# frameworks
 -  springboot
 -  flask
 -  express.js
