@@ -5,25 +5,23 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **PHP , js ,java **
-
 - 📫 How to reach me **zc26226@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
 
-<h3 align="left">Languages</h3>
+<h3>Languages</h3>
 - Javascript
 - Java
 - PHP
 - Css
-<h3 align="left">Tools</h3>
+<h3>Tools</h3>
 - Postman
 - intelij
 - git
 - tomcat
 - xampp
 - sqlyog
-<h3 align="left">Framework</h3>
+<h3>Framework</h3>
 - springboot
 - flask
 - express.js
