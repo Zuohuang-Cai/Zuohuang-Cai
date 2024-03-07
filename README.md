@@ -13,4 +13,4 @@ I'm Zuohuang Cai, a Fullstack developer based in the Netherlands.
 - express.js
 - bootstrap
 - bulma
-- tailwindcss
+- springboot
