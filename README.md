@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zuohuang</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi 👋, I'm Zuohuang&center=true&size=27"></h1>
 <h3 align="center">A software devloper student</h3>
 
 - 🔭 I’m currently working on [Springboot](https://github.com/Zuohuang-Cai/portfolioServer)
@@ -14,7 +14,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://zuohuang-cai.github.io/snk/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zuohuang-cai&theme=xcode" /> </div>
 
 <h1 align='center'>Languages</h1>
 <div align="center">
