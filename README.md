@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi 👋, I'm Zuohuang&center=true&size=27"></h1>
+<h1 align="center">Hi 👋, I'm Zuohuang</h1>
 <h3 align="center">A software devloper student</h3>
 
 - 🔭 I’m currently working on [Springboot](https://github.com/Zuohuang-Cai/portfolioServer)
