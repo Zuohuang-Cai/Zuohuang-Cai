@@ -21,12 +21,37 @@
 </div>
 
 # tools
--  Postman
--  intelij
--  git
--  tomcat
--  xampp
--  sqlyog
+
+<div style="display:flex; align-items:center;">
+  <img src='https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp' width='20' height='20' style="margin-right: 5px;">
+  <span>Postman</span>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrpoarZd5Of6jfXScT4xy5OJeO45AJ9oJNiXH79rLdhhavOUNswvmetjqVeFWAMv-aF0&usqp=CAU' width='20' height='20' style="margin-right: 5px;">
+  <span>Intelij</span>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <img src='https://avatars.githubusercontent.com/u/18133?s=280&v=4' width='20' height='20' style="margin-right: 5px;">
+  <span>Git</span>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg' width='20' height='20' style="margin-right: 5px;">
+  <span>Tomcat</span>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <img src='https://habrastorage.org/webt/wc/mn/um/wcmnum7pagecdfschlw9zu2kpf4.png' width='20' height='20' style="margin-right: 5px;">
+  <span>Xampp</span>
+</div>
+
+<div style="display:flex; align-items:center;">
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6mcVW3pynl3Io_L33apPVvcNdGQbUkI-Jw&usqp=CAU' width='20' height='20' style="margin-right: 5px;">
+  <span>Sqlyog</span>
+</div>
+
 # frameworks
 -  springboot
 -  flask
