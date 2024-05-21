@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zc26226@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://zuohuang-cai.github.io/snk/github-contribution-grid-snake-dark.svg" />
@@ -53,8 +53,23 @@
 </div>
 
 # frameworks
--  springboot
--  flask
--  express.js
--  bootstrap
--  mybatis
+<div style="display:flex; align-items:center;">
+  <img src='https://www.jrebel.com/sites/default/files/image/2020-08/image-blog-what-is-springboot.jpg' width='20' height='20' style="margin-right: 5px;">
+  <span>Springboot</span>
+</div>
+<div style="display:flex; align-items:center;">
+  <img src='https://miro.medium.com/v2/resize:fit:679/0*vq-JSMynSHUPXx70' width='20' height='20' style="margin-right: 5px;">
+  <span>Express</span>
+</div>
+<div style="display:flex; align-items:center;">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width='20' height='20' style="margin-right: 5px;">
+  <span>React</span>
+</div>
+<div style="display:flex; align-items:center;">
+  <img src='https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png' width='20' height='20' style="margin-right: 5px;">
+  <span>Bootstrap</span>
+</div>
+<div style="display:flex; align-items:center;">
+  <img src='https://www.drupal.org/files/project-images/screenshot_361.png' width='20' height='20' style="margin-right: 5px;">
+  <span>Tailwind</span>
+</div>
