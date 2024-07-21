@@ -21,14 +21,9 @@
 <div align="center">
 <span>&emsp;&emsp;</span>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&langs_count=8" />
+<img width="100vw" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
-</div>
 
-
-<div align="center">
-  <img style="width: 100%; height: auto;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</div>
 
 # tools
 
