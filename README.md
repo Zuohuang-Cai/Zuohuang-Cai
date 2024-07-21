@@ -20,9 +20,10 @@
 <h1 align='center'>Languages</h1>
 <div align="center">
 <span>&emsp;&emsp;</span>
-
-<img width="100vw" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&langs_count=8" />
+</div>
+<img style="width: 100vw;" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
+
 
 
 # tools
