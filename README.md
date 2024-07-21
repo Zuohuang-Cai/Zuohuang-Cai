@@ -21,8 +21,8 @@
 <div align="center">
 <span>&emsp;&emsp;</span>
 </div>
-<img style="width: 100vw;" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&theme=tokyonight)
 
 
 
