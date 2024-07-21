@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zuohuang</h1>
+<center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zuohuang" alt="Typing SVG" />
+  </a>
+</center>
 <h3 align="center">A software devloper student</h3>
 
 - 🔭 I’m currently working on [Springboot](https://github.com/Zuohuang-Cai/portfolioServer)
@@ -24,9 +28,9 @@
 </div>
 
 
-<!-- <div align="center">
+<div align="center">
   <img style="width: 100%; height: auto;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuohuang-cai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</div> -->
+</div>
 
 # tools
 
