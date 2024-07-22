@@ -26,7 +26,7 @@
 </a>
 
 
-## My Skill Set
+<h1 align='center'>My Skill Set</h1>
 
 <table><tr><td valign="top" width="33%">
 
