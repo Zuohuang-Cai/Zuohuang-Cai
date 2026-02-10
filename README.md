@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&height=57&lines=Hi+%F0%9F%91%8B%2C+I'm+Zuohuang;Hoi+%F0%9F%91%8B%2C+ik+ben+Zuohuang;Hallo+%F0%9F%91%8B%2C+ich+bin+Zuohuang;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%2C+%E6%88%91%E5%8F%AB%E4%BD%90%E7%85%8C" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently working on [Springboot](https://github.com/Zuohuang-Cai/portfolioServer)
+- 🔭 I’m currently working on [.Net](https://github.com/Zuohuang-Cai/portfolioServer)
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **event driven**
 
 - 📫 How to reach me **zc26226@gmail.com**
 
