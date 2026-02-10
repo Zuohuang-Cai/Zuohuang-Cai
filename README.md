@@ -27,8 +27,15 @@
 
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h1 align='center'>My Skill Set  </h1>
+<table align='center' width="100%">
+   <colgroup>
+    <col width="33.33%">
+    <col width="33.33%">
+    <col width="33.33%">
+  </colgroup>
+  
+  <tr><td valign="top" width="33%">
 
 
 
