@@ -21,8 +21,8 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<a href="https://github-readme-stats-gilt-psi-83.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&theme=tokyonight" target="_blank">
-  <img src="https://github-readme-stats-gilt-psi-83.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 100%; height: auto;"/>
+<a href="https://github-readme-stats-gilt-psi-83.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&theme=tokyonight&hide=javascript,html,css" target="_blank">
+  <img src="https://github-readme-stats-gilt-psi-83.vercel.app/api/top-langs/?username=zuohuang-cai&layout=compact&theme=tokyonight&hide=javascript,html,css" alt="Top Langs" style="width: 100%; height: auto;"/>
 </a>
 
 
