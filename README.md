@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zc26226@gmail.com**
 
-- 📄 Know about my [experiences](https://www.linkedin.com/in/zuohuang-cai-3865a11b1/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/zuohuang-cai/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://zuohuang-cai.github.io/snk/github-contribution-grid-snake-dark.svg" />
